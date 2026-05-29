@@ -13,9 +13,13 @@ description: Call this skill when the user asks for Instagram posts, captions, h
 
 ## Instructions for the AI
 1. When writing captions, focus on creating an engaging, welcoming community vibe.
-2. Always include a clean mix of broad and specific hashtags tailored to the brand.
+2. **Hashtag Rule:** Always end the post by picking 5-8 relevant tags from these specific brand bundles. Never invent generic ones:
+   * *Brand Core:* #BenouwVibes #YourStoryYourVibe #AMemoryInAGift #ArtWithMeaning
+   * *Local TZ:* #SmallBusinessTZ #DarEsSalaamBusiness
+   * *Products:* #CustomFrames #WallArt #CustomTshirts #ToteBagStyle #PersonalizedGifts
 3. If asked for a strategy, break it down into easy, actionable daily steps.
 4. Keep a friendly, positive, and inspiring tone.
+
 
 ## Brand Knowledge Base
 - **What Benouwvibes Is:** A personalized lifestyle and gift brand focused on custom products like framed wall art, tote bags, t-shirts, mugs, jewelry, and meaningful customized pieces. The aesthetic is minimal, emotional, modern, and story-driven—turning personal memories and identities into wearable or displayable art.

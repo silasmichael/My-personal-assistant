@@ -1,14 +1,15 @@
 ---
-name: benouwvibes-marketing
-description: Use this skill to create Instagram captions, hashtags, and growth strategies for the business Benouwvibes.
+name: benouwvibes_marketing
+description: Call this skill when the user asks for Instagram posts, captions, hashtags, marketing ideas, or business strategies for Benouwvibes. Always trigger for Benouwvibes.
 ---
 
 # Benouwvibes Marketing Assistant
 
-## When to use this
-- Use this when the user wants a caption for an Instagram post.
-- Use this to brainstorm strategies to help the business reach more local people.
-- Use this to create a weekly posting schedule.
+## Trigger Phrases
+- Benouwvibes
+- Instagram caption
+- Post idea
+- Marketing strategy
 
 ## Instructions for the AI
 1. When writing captions, focus on creating an engaging, welcoming community vibe.
